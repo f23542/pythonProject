@@ -24,7 +24,7 @@ if __name__ == '__main__':
 
     sys.exit(app.exec_())
 
-    # text file handling - grub.cfg edit
+    # text file handling - for grub.cfg menuentry error edit
 
 
 
